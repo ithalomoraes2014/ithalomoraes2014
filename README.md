@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**ithalomoraes2014/ithalomoraes2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, eu sou Ithalo Moraes 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Sou profissional em transição para a área de programação Front-End, movido pela paixão por tecnologia e inovação.
+
+Sou desenvolvedor frontend apaixonado por criar interfaces modernas e responsivas. Trabalho principalmente com:
+
+- React.js
+
+- JavaScript (ES6+)
+
+- HTML5 & CSS3 (Flexbox, Grid)
+
+- TypeScript
+
+- Ferramentas: Git, Webpack, VSCode
